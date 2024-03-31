@@ -6,3 +6,5 @@ each user can add and download qr code as a jpg
 
 feel free to create complex system from the code
 sql codes are there with you on qr folder
+
+#for further development email: joegatimu20@gmail.com
